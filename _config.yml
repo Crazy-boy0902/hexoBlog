@@ -68,4 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type:git
+  repo:
+    github: git@github.com:Crazy-boy0902/Crazy-boy0902.github.io.git,master
